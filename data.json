@@ -1,0 +1,99 @@
+[
+  {
+    "h13": 10,
+    "h18": 23,
+    "h22.5": 8,
+    "dist": 400,
+    "PPD": true,
+    "ppd_count": 40,
+    "title": "first"
+  },
+  {
+    "h13": 2,
+    "h18": 23,
+    "h22.5": 8,
+    "dist": 400,
+    "PPD": true,
+    "ppd_count": 32,
+    "title": "second"
+  },
+  {
+    "h18": 16,
+    "h22.5": 8,
+    "dist": 400,
+    "PPD": true,
+    "ppd_count": 23,
+    "title": "third"
+  },
+  {
+    "h22.5": 8,
+    "h18": 7,
+    "dist": 400,
+    "PPD": true,
+    "ppd_count": 16,
+    "title": "fourth_test_case"
+  },
+  {
+    "h8": 7,
+    "h13": 8,
+    "dist": 400,
+    "PPD": true,
+    "ppd_count": 16,
+    "title": "fifth_test_case"
+  },
+  {
+    "h18": 14,
+    "h22.5": 18,
+    "dist": 300,
+    "PPD": true,
+    "ppd_count": 33,
+    "title": "sixth"
+  },
+  {
+    "h22.5": 18,
+    "dist": 300,
+    "PPD": true,
+    "ppd_count": 19,
+    "title": "seventh"
+  },
+  {
+    "h18": 28,
+    "h22.5": 18,
+    "dist": 300,
+    "PPD": true,
+    "ppd_count": 47,
+    "title": "eight"
+  },
+  {
+    "h18": 28,
+    "h13": 6,
+    "h22.5": 18,
+    "dist": 300,
+    "PPD": true,
+    "ppd_count": 53,
+    "title": "ninth"
+  },
+  {
+    "h22.5": 16,
+    "dist": 200,
+    "PPD": true,
+    "ppd_count": 17,
+    "title": "tenth"
+  },
+  {
+    "h22.5": 16,
+    "h18": 9,
+    "dist": 200,
+    "PPD": true,
+    "ppd_count": 26,
+    "title": "eleventh"
+  },
+  {
+    "h22.5": 16,
+    "h18": 28,
+    "dist": 200,
+    "PPD": true,
+    "ppd_count": 17,
+    "title": "twelfth"
+  }
+]
